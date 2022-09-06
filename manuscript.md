@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-one/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/d6f7a4dc3c4e0435bceebf9281394cace5deeb6a/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/d6f7a4dc3c4e0435bceebf9281394cace5deeb6a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/d6f7a4dc3c4e0435bceebf9281394cace5deeb6a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/0aa0ce9b51b700c4e02feffdecb7a7c06538477d/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/0aa0ce9b51b700c4e02feffdecb7a7c06538477d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/0aa0ce9b51b700c4e02feffdecb7a7c06538477d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/d6f7a4dc3c4e0435bceebf9281394cace5deeb6a/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-one/v/0aa0ce9b51b700c4e02feffdecb7a7c06538477d/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-one@d6f7a4d](https://github.com/uiceds/cee-492-term-project-fall-2022-one/tree/d6f7a4dc3c4e0435bceebf9281394cace5deeb6a)
+from [uiceds/cee-492-term-project-fall-2022-one@0aa0ce9](https://github.com/uiceds/cee-492-term-project-fall-2022-one/tree/0aa0ce9b51b700c4e02feffdecb7a7c06538477d)
 on September 6, 2022.
 </em></small>
 
@@ -74,7 +74,7 @@ on September 6, 2022.
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-8513-9065](https://orcid.org/0000-0002-8513-9065)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [junrenran](https://github.com/junrenran)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [None](https://twitter.com/None)<br>
   <small>
